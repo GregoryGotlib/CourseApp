@@ -1,0 +1,42 @@
+label{
+    font-weight: bold;
+    text-align: left;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 12cm;
+    height:14cm;
+    text-align:center;
+    margin-left:30%;
+    margin-top:10%;
+    background-color:white;
+    border-radius:5px;
+    padding: 50px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  
+  .btn{
+  width: 8cm;
+  margin-top:3%
+  }
+  
+  p.card-title{
+      margin-bottom: 5px;
+      font-size: 2em;
+  }
+  
+  p.fp{
+   margin-left:6cm;
+   margin-top:4px
+  }
+  
+  p.sign{
+   margin-top:10px;
+  }
+  
